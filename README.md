@@ -5,4 +5,5 @@ README.me
 
 ## Used Tech Stack
 
-Technnologies: Java, Spring Framework
+Technnologies and aplications used:
+Java, Spring Boot, docker, MySql, MySQL WorkBench
